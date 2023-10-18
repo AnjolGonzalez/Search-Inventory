@@ -1,7 +1,6 @@
 package com.pluralsight;
 
-public class Inventory {
-    public class Product {
+public class Product {
         private int id;
         private String name;
         private float price;
@@ -24,4 +23,3 @@ public class Inventory {
             return this.price;
         }
     }
-}
